@@ -377,9 +377,7 @@ public class Field {
     }
 
     public ArrayList<Point> getSnippetPositions() {
-        
-        System.out.println("Lily Debugs Snippet Position: " + this.snippetPositions);
-           
+        System.out.println("Lily Debugs Snippet Position: " + this.snippetPositions); 
         return this.snippetPositions;
     }
 
